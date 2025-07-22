@@ -6,7 +6,7 @@ Estudante de Engenharia de Software | Desenvolvedora em formação | Experiênci
 Sou apaixonada por tecnologia, com forte disciplina para aprender e colocar em prática.  
 Atualmente estou me desenvolvendo nas áreas de **front-end, lógica de programação e suporte técnico**, com o objetivo de atuar em equipes que valorizam aprendizado contínuo, entrega e propósito.
 
-Tenho projetos reais publicados com WordPress e Elementor, onde atendi clientes reais construindo sites institucionais e landing pages do zero.
+Tenho projetos reais publicados com WordPress e Elementor, onde atendi clientes reais construindo sites institucionais e landing pages.
 
 ## 🛠️ Habilidades Iniciais
 
